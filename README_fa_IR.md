@@ -14,8 +14,6 @@ Shibacoin Core [SHIC]
 
 برای اطلاعات در مورد کارمزد‌های پیشفرض استفاده شده در شبکه پپکوین، لطفاً به [توصیه کارمزد](doc/fee-recommendation.md) مراجعه کنید.
 
-**وب‌سایت:** [shibacoinshic.org](https://shibacoinshic.org)
-
 ## تفاوت‌های دوجکوین
 
 پپکوین یک شاخه از دوجکوین است. به منظور ایجاد اشتهارنگی، ما سعی می‌کنیم تا پپکوین را مشابه دوجکوین نگه داریم.
@@ -48,9 +46,8 @@ Shibacoin Core [SHIC]
 
 منابع اصلی توسعه:
 
-* از [پروژه‌های GitHub](https://github.com/shibacoinppc/shibacoin/projects) برای پیگیری کارهای برنامه‌ریزی شده و در دست اجرا برای انتشارهای آتی استفاده می‌شود.
-* از [بحث در GitHub](https://github.com/shibacoinppc/shibacoin/discussions) برای بحث در مورد ویژگی‌ها، برنامه‌های برنامه‌ریزی و غیر برنامه‌ریزی مرتبط با توسعه هسته پپکوین، پروتکل‌های مبنایی و دارایی SHIC استفاده می‌شود.
-* [زیر‌ردیت Shibacoin](https://www.reddit.com/r/Shibacoin_Shic/)
+* از [پروژه‌های GitHub](https://github.com/shibacoinpow/shibacoin/projects) برای پیگیری کارهای برنامه‌ریزی شده و در دست اجرا برای انتشارهای آتی استفاده می‌شود.
+* از [بحث در GitHub](https://github.com/shibacoinpow/shibacoin/discussions) برای بحث در مورد ویژگی‌ها، برنامه‌های برنامه‌ریزی و غیر برنامه‌ریزی مرتبط با توسعه هسته پپکوین، پروتکل‌های مبنایی و دارایی SHIC استفاده می‌شود.
 
 ### استراتژی نسخه
 شماره‌های نسخه به صورت `major.minor.patch` پیروی می‌شوند.
@@ -66,9 +63,9 @@ Shibacoin Core [SHIC]
 
 ## همکاری 🤝
 
-اگر با این نرم‌افزار باگی پیدا کردید یا مشکلی دارید، لطفاً آن را با استفاده از [سیستم گزارش مشکل](https://github.com/shibacoinppc/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+) گزارش کنید.
+اگر با این نرم‌افزار باگی پیدا کردید یا مشکلی دارید، لطفاً آن را با استفاده از [سیستم گزارش مشکل](https://github.com/shibacoinpow/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+) گزارش کنید.
 
-لطفاً [راهنمای همکاری](CONTRIBUTING.md) را ببینید تا ببینید چگونه می‌توانید در توسعه هسته پپکوین شرکت کنید. اغلب اوقات [موضوعات نیاز به کمک](https://github.com/shibacoinppc/shibacoin/labels/help%20wanted) وجود دارند که مشارکت‌های شما تأثیر بالایی دارند و تشکر فراوان می‌شود.
+لطفاً [راهنمای همکاری](CONTRIBUTING.md) را ببینید تا ببینید چگونه می‌توانید در توسعه هسته پپکوین شرکت کنید. اغلب اوقات [موضوعات نیاز به کمک](https://github.com/shibacoinpow/shibacoin/labels/help%20wanted) وجود دارند که مشارکت‌های شما تأثیر بالایی دارند و تشکر فراوان می‌شود.
 
 ## انجمن‌ها 🐸
 
@@ -76,12 +73,9 @@ Shibacoin Core [SHIC]
 
 اینجا چند مکان برای بازدید هستند:
 
-* [r/Shibacoin_Shic](https://www.reddit.com/r/Shibacoin_Shic/)
-* [Discord](https://discord.com/invite/h3PrtfcKVJ)
-
 ## سوالات متداول ❓
 
-آیا سوالی در مورد پپکوین دارید؟ شاید پاسخی از پیش در [سوالات متداول](doc/FAQ.md) یا بخش [پرسش و پاسخ](https://github.com/shibacoinppc/shibacoin/discussions/categories/q-a) در تالار بحث وجود داشته باشد!
+آیا سوالی در مورد پپکوین دارید؟ شاید پاسخی از پیش در [سوالات متداول](doc/FAQ.md) یا بخش [پرسش و پاسخ](https://github.com/shibacoinpow/shibacoin/discussions/categories/q-a) در تالار بحث وجود داشته باشد!
 
 ## لایسنس ⚖️
 هسته پپکوین تحت شرایط مجوز MIT منتشر شده است. برای اطلاعات بیشتر می‌توانید به [COPYING](COPYING) مراجعه کنید یا به [opensource.org](https://opensource.org/licenses/MIT) مراجعه کنید.

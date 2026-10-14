@@ -14,8 +14,6 @@ Shibacoin是由2013年原始Dogecoin shibes之一创建的社区关注的加密�
 
 有关Shibacoin网络上使用的默认费用的信息，请参阅[费用建议](doc/fee-recommendation.md)。
 
-**网站:** [shibacoinshic.org](https://shibacoinshic.org)
-
 ## Dogecoin 差异
 
 Shibacoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试使 Shibacoin 保持与 Dogecoin 类似。
@@ -48,9 +46,8 @@ Shibacoin Core是一个开源的、社区驱动的软件。开发过程是公开
 
 主要的开发资源:
 
-* [GitHub项目](https://github.com/shibacoinppc/shibacoin/projects) 用于跟踪即将发布的版本的计划和正在进行中的工作。
-* [GitHub讨论](https://github.com/shibacoinppc/shibacoin/discussions) 用于讨论与Shibacoin Core软件的开发、基础协议和SHIC资产相关的计划和非计划功能。
-* [Shibacoin subreddit](https://www.reddit.com/r/Shibacoin_Shic/)
+* [GitHub项目](https://github.com/shibacoinpow/shibacoin/projects) 用于跟踪即将发布的版本的计划和正在进行中的工作。
+* [GitHub讨论](https://github.com/shibacoinpow/shibacoin/discussions) 用于讨论与Shibacoin Core软件的开发、基础协议和SHIC资产相关的计划和非计划功能。
 
 ### 版本策略
 版本号遵循```主版本.次版本.修订版本```的语义。
@@ -67,22 +64,17 @@ Shibacoin Core是一个开源的、社区驱动的软件。开发过程是公开
 
 ## 贡献 🤝
 
-如果您发现了错误或在使用此软件时遇到问题，请使用[问题系统](https://github.com/shibacoinppc/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+)报告它。
+如果您发现了错误或在使用此软件时遇到问题，请使用[问题系统](https://github.com/shibacoinpow/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+)报告它。
 
-请参阅[贡献指南](CONTRIBUTING.md)以了解如何参与Shibacoin Core的开发。通常会有[寻求帮助的主题](https://github.com/shibacoinppc/shibacoin/labels/help%20wanted)，您的贡献将产生很高的影响并得到很高的评价。
+请参阅[贡献指南](CONTRIBUTING.md)以了解如何参与Shibacoin Core的开发。通常会有[寻求帮助的主题](https://github.com/shibacoinpow/shibacoin/labels/help%20wanted)，您的贡献将产生很高的影响并得到很高的评价。
 
 ## 社区 🐸
 
 您可以加入不同社交媒体上的社区。要了解正在发生什么，结识人们和讨论，找到最新的模因，了解Shibacoin，提供或寻求帮助，分享您的项目。
 
-以下是一些值得参观的地方:
-
-* [r/Shibacoin_Shic](https://www.reddit.com/r/Shibacoin_Shic/)
-* [Discord](https://discord.com/invite/h3PrtfcKVJ)
-
 ## 常见问题解答 ❓
 
-关于Shibacoin是否有问题？答案可能已经在[FAQ](doc/FAQ.md)或讨论板的[Q&A部分](https://github.com/shibacoinppc/shibacoin/discussions/categories/q-a)中。
+关于Shibacoin是否有问题？答案可能已经在[FAQ](doc/FAQ.md)或讨论板的[Q&A部分](https://github.com/shibacoinpow/shibacoin/discussions/categories/q-a)中。
 
 ## 许可证 ⚖️
 Shibacoin Core根据MIT许可证的条款发布。请参阅[COPYING](COPYING)获取更多信息或参阅[opensource.org](https://opensource.org/licenses/MIT)

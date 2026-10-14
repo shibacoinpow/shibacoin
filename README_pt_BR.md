@@ -14,8 +14,6 @@ Assim como o Dogecoin, o software Shibacoin Core permite que qualquer pessoa ope
 
 Para informações sobre as taxas padrão usadas na rede Shibacoin, por favor consulte a [recomendação de taxas](doc/fee-recommendation.md).
 
-**Website:** [shibacoinshic.org](https://shibacoinshic.org)
-
 ## Diferenças do Dogecoin
 
 O Shibacoin é um fork do Dogecoin. Para fins de familiaridade, tentaremos manter o Shibacoin semelhante ao Dogecoin.
@@ -47,9 +45,8 @@ O Shibacoin Core é um software de código aberto e orientado pela comunidade. O
 
 Principais recursos de desenvolvimento:
 
-* [Projetos do GitHub](https://github.com/shibacoinppc/shibacoin/projects) são usados para seguir o trabalho planejado e em progresso para futuros lançamentos.
-* [Discussão do GitHub](https://github.com/shibacoinppc/shibacoin/discussions) é usada para discutir recursos, planejados e não planejados, relacionados tanto ao desenvolvimento do software Shibacoin Core, quanto aos protocolos subjacentes e o ativo SHIC.  
-* [Subreddit Shibacoin](https://www.reddit.com/r/Shibacoin_Shic/)
+* [Projetos do GitHub](https://github.com/shibacoinpow/shibacoin/projects) são usados para seguir o trabalho planejado e em progresso para futuros lançamentos.
+* [Discussão do GitHub](https://github.com/shibacoinpow/shibacoin/discussions) é usada para discutir recursos, planejados e não planejados, relacionados tanto ao desenvolvimento do software Shibacoin Core, quanto aos protocolos subjacentes e o ativo SHIC.  
 
 ### Estratégia de versão
 Os números de versão seguem a semântica ```principal.menor.correção```.
@@ -65,23 +62,18 @@ Existem 3 tipos de branches neste repositório:
 
 ## Contribuindo 🤝
 
-Se você encontrar um bug ou tiver problemas com este software, por favor, relate usando o [sistema de problemas](https://github.com/shibacoinppc/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
+Se você encontrar um bug ou tiver problemas com este software, por favor, relate usando o [sistema de problemas](https://github.com/shibacoinpow/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
 
-Por favor, veja [o guia de contribuição](CONTRIBUTING.md) para saber como você pode participar do desenvolvimento do Shibacoin Core. Muitas vezes há [tópicos buscando ajuda](https://github.com/shibacoinppc/shibacoin/labels/help%20wanted) onde suas contribuições terão alto impacto e serão muito apreciadas.
+Por favor, veja [o guia de contribuição](CONTRIBUTING.md) para saber como você pode participar do desenvolvimento do Shibacoin Core. Muitas vezes há [tópicos buscando ajuda](https://github.com/shibacoinpow/shibacoin/labels/help%20wanted) onde suas contribuições terão alto impacto e serão muito apreciadas.
 
 ## Comunidades 🐸
 
 Você pode se juntar às comunidades em diferentes mídias sociais.
 Para ver o que está acontecendo, conhecer pessoas e discutir, encontrar o último meme, aprender sobre o Shibacoin, dar ou pedir ajuda, para compartilhar seu projeto.
 
-Aqui estão alguns lugares para visitar:
-
-* [r/Shibacoin_Shic](https://www.reddit.com/r/Shibacoin_Shic/)
-* [Discord](https://discord.com/invite/h3PrtfcKVJ)
-
 ## Perguntas Frequentes ❓
 
-Você tem uma pergunta sobre o Shibacoin? A resposta pode estar na [FAQ](doc/FAQ.md) ou na [seção de Perguntas e Respostas](https://github.com/shibacoinppc/shibacoin/discussions/categories/q-a) do quadro de discussão!
+Você tem uma pergunta sobre o Shibacoin? A resposta pode estar na [FAQ](doc/FAQ.md) ou na [seção de Perguntas e Respostas](https://github.com/shibacoinpow/shibacoin/discussions/categories/q-a) do quadro de discussão!
 
 ## Licença ⚖️
 O Shibacoin Core é lançado sob os termos da licença MIT. Veja

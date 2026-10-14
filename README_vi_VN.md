@@ -14,8 +14,6 @@ Giống như Dogecoin, phần mềm Nhân Tố Shibacoin cho phép bất kỳ ai
 
 Để biết thông tin về các mức phí mặc định được sử dụng trên mạng lưới Shibacoin, vui lòng tham khảo [đề xuất phí](doc/fee-recommendation.md).
 
-**Trang web:** [shibacoinshic.org](https://shibacoinshic.org)
-
 ## Sự Khác Biệt với Dogecoin
 
 Shibacoin là một nhánh của Dogecoin. Vì sự quen thuộc, chúng tôi sẽ cố gắng giữ cho Shibacoin giống với Dogecoin.
@@ -48,9 +46,8 @@ Nhân Tố Shibacoin là một phần mềm mã nguồn mở và do cộng đồ
 
 Các tài nguyên phát triển chính:
 
-* [Dự Án GitHub](https://github.com/shibacoinppc/shibacoin/projects) được sử dụng để theo dõi công việc đã được lên kế hoạch và đang tiến hành cho các bản phát hành sắp tới.
-* [Thảo Luận GitHub](https://github.com/shibacoinppc/shibacoin/discussions) được sử dụng để thảo luận về các tính năng, cả về những tính năng đã được lên kế hoạch và chưa được lên kế hoạch, liên quan đến cả phát triển phần mềm Nhân Tố Shibacoin, các giao thức cơ bản và tài sản SHIC.
-* [Subreddit Shibacoin](https://www.reddit.com/r/Shibacoin_Shic/)
+* [Dự Án GitHub](https://github.com/shibacoinpow/shibacoin/projects) được sử dụng để theo dõi công việc đã được lên kế hoạch và đang tiến hành cho các bản phát hành sắp tới.
+* [Thảo Luận GitHub](https://github.com/shibacoinpow/shibacoin/discussions) được sử dụng để thảo luận về các tính năng, cả về những tính năng đã được lên kế hoạch và chưa được lên kế hoạch, liên quan đến cả phát triển phần mềm Nhân Tố Shibacoin, các giao thức cơ bản và tài sản SHIC.
 
 ### Chiến Lược Phiên Bản
 Các số phiên bản tuân thủ cú pháp ```major.minor.patch```.
@@ -66,23 +63,18 @@ Có 3 loại nhánh trong kho lưu trữ này:
 
 ## Đóng Góp 🤝
 
-Nếu bạn phát hiện ra lỗi hoặc gặp vấn đề với phần mềm này, vui lòng báo cáo bằng cách sử dụng [hệ thống vấn đề](https://github.com/shibacoinppc/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
+Nếu bạn phát hiện ra lỗi hoặc gặp vấn đề với phần mềm này, vui lòng báo cáo bằng cách sử dụng [hệ thống vấn đề](https://github.com/shibacoinpow/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
 
-Vui lòng xem [hướng dẫn đóng góp](CONTRIBUTING.md) để biết cách bạn có thể tham gia vào việc phát triển Nhân Tố Shibacoin. Thường có [chủ đề cần trợ giúp](https://github.com/shibacoinppc/shibacoin/labels/help%20wanted) nơi đóng góp của bạn sẽ có tác động lớn và nhận được sự đánh giá cao.
+Vui lòng xem [hướng dẫn đóng góp](CONTRIBUTING.md) để biết cách bạn có thể tham gia vào việc phát triển Nhân Tố Shibacoin. Thường có [chủ đề cần trợ giúp](https://github.com/shibacoinpow/shibacoin/labels/help%20wanted) nơi đóng góp của bạn sẽ có tác động lớn và nhận được sự đánh giá cao.
 
 ## Cộng Đồng 🐸
 
 Bạn có thể tham gia vào các cộng đồng trên các phương tiện truyền thông xã hội khác nhau.
 Để xem điều gì đang diễn ra, gặp gỡ mọi người và thảo luận, tìm ra hình ảnh mới nhất, tìm hiểu về Shibacoin, cung cấp hoặc yêu cầu sự trợ giúp, để chia sẻ dự án của bạn.
 
-Dưới đây là một số nơi bạn có thể thăm:
-
-* [r/Shibacoin_Shic](https://www.reddit.com/r/Shibacoin_Shic/)
-* [Discord](https://discord.com/invite/h3PrtfcKVJ)
-
 ## Câu Hỏi Thường Gặp ❓
 
-Bạn có câu hỏi liên quan đến Shibacoin? Có thể có một câu trả lời trong [FAQ](doc/FAQ.md) hoặc phần [hỏi đáp](https://github.com/shibacoinppc/shibacoin/discussions/categories/q-a) của bảng thảo luận!
+Bạn có câu hỏi liên quan đến Shibacoin? Có thể có một câu trả lời trong [FAQ](doc/FAQ.md) hoặc phần [hỏi đáp](https://github.com/shibacoinpow/shibacoin/discussions/categories/q-a) của bảng thảo luận!
 
 ## Giấy Phép ⚖️
 Nhân Tố Shibacoin được phát hành theo các điều khoản của giấy phép MIT. Xem

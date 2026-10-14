@@ -15,7 +15,7 @@ The Shibacoin Core software allows anyone to operate a node in the Shibacoin blo
 For information about the default fees used on the Shibacoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
 
-**Website:** [shibacoinshic.org](https://shibacoinshic.org)
+
 
 ## Dogecoin Differences
 
@@ -55,12 +55,11 @@ software.
 
 Main development resources:
 
-* [GitHub Projects](https://github.com/shibacoinppc/shibacoin/projects) is used to
+* [GitHub Projects](https://github.com/shibacoinpow/shibacoin/projects) is used to
   follow planned and in-progress work for upcoming releases.
-* [GitHub Discussion](https://github.com/shibacoinppc/shibacoin/discussions) is used
+* [GitHub Discussion](https://github.com/shibacoinpow/shibacoin/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
   the Shibacoin Core software, the underlying protocols and the SHIC asset.  
-* [Shibacoin subreddit](https://www.reddit.com/r/Shibacoin_Shic/)
 
 ### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
@@ -80,11 +79,11 @@ There are 3 types of branches in this repository:
 ## Contributing 🤝
 
 If you find a bug or experience issues with this software, please report it
-using the [issue system](https://github.com/shibacoinppc/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
+using the [issue system](https://github.com/shibacoinpow/shibacoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
 
 Please see [the contribution guide](CONTRIBUTING.md) to see how you can
 participate in the development of Shibacoin Core. There are often
-[topics seeking help](https://github.com/shibacoinppc/shibacoin/labels/help%20wanted)
+[topics seeking help](https://github.com/shibacoinpow/shibacoin/labels/help%20wanted)
 where your contributions will have high impact and get very appreciation.
 
 ## Communities 🐶️
@@ -93,13 +92,9 @@ You can join the communities on different social media.
 To see what's going on, meet people & discuss, find the latest meme, learn
 about Shibacoin, give or ask for help, to share your project.
 
-Here are some places to visit:
-
-* [Discord](https://discord.com/invite/h3PrtfcKVJ)
-
 ## Frequently Asked Questions ❓
 
-Do you have a question regarding Shibacoin? An answer is perhaps already in the [FAQ](doc/FAQ.md) or the [Q&A section](https://github.com/shibacoinppc/shibacoin/discussions/categories/q-a) of the discussion board!
+Do you have a question regarding Shibacoin? An answer is perhaps already in the [FAQ](doc/FAQ.md) or the [Q&A section](https://github.com/shibacoinpow/shibacoin/discussions/categories/q-a) of the discussion board!
 
 ## License ⚖️
 Shibacoin Core is released under the terms of the MIT license. See
